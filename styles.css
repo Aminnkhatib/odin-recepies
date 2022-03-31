@@ -1,0 +1,24 @@
+
+
+.description {
+    text-align: center;
+    color: blue;
+    background-color: black;
+}
+
+.ingredients {
+    text-align: center;
+    color: blanchedalmond;
+    background-color: brown;
+}
+
+.instructions {
+    text-align: center;
+    color: darkgreen;
+    background-color: darkslategrey;
+}
+
+.picture {
+    width: 500px;
+    height:auto;
+}
